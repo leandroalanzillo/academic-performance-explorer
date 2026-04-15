@@ -1,4 +1,4 @@
-# 📚 Academic Performance Explorer
+# 📚 Análise exploratória: hábitos de estudantes e seu impacto no desempenho acadêmico.
 
 Análise exploratória de dados sobre hábitos de estudantes e seu impacto no desempenho acadêmico.
 
