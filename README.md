@@ -1,7 +1,5 @@
 # 📚 Análise exploratória: hábitos de estudantes e seu impacto no desempenho acadêmico.
 
-Análise exploratória de dados sobre hábitos de estudantes e seu impacto no desempenho acadêmico.
-
 ## 🎯 Objetivo
 
 Investigar quais hábitos do dia a dia — como horas de estudo, uso de redes sociais, qualidade do sono e alimentação — mais influenciam a nota dos alunos.
