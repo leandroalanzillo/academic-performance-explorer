@@ -64,7 +64,16 @@ jupyter notebook main.ipynb
 - O uso excessivo de redes sociais está associado a **notas mais baixas**
 - Hábitos saudáveis (exercício, alimentação e saúde mental) apresentam correlação positiva com o desempenho
 
-## 👤 Autor
+## 🔗 Acesse
 
-**Leandro Alanzillo**  
-[GitHub](https://github.com/leandroalanzillo)
+<div align="center">
+  <a href="https://github.com/leandroalanzillo/academic-performance-explorer">
+    <img src="https://img.shields.io/badge/Ver%20Repositório-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/leandroalanzillo/academic-performance-explorer/blob/main/main.ipynb">
+    <img src="https://img.shields.io/badge/Ver%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/leandroalanzillo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
